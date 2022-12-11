@@ -5,7 +5,7 @@
         private static void Main()
         {
             // #read a matrix from a text file
-            var matrixFromFile = File.ReadAllText(@"C:\Users\hugov\source\repos\Even-odd\Even-odd\resources\matrix.txt");
+            var matrixFromFile = File.ReadAllText(@"C:\Users\hugovasko\repos\Even-odd\Even-odd\resources\matrix.txt");
             // #endregion
 
             // find the sum of the even-valued elements in the odd-numbered rows
